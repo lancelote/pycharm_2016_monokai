@@ -1,3 +1,6 @@
+.. image:: http://jb.gg/badges/team.svg
+    :target: https://confluence.jetbrains.com/display/ALL/JetBrains+on+GitHub
+
 pycharm_2016_monokai
 ====================
 
